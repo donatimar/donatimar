@@ -14,8 +14,7 @@ Sono un Junior Full Stack Web Developer.
 
 Dopo un percorso nel settore turistico, ho intrapreso una nuova strada nel mondo dello sviluppo web completando il corso Full Stack Web Developer presso Boolean.
 
-Attualmente sviluppo applicazioni web utilizzando tecnologie frontend e backend, con particolare interesse per React, Node.js e lo sviluppo di API REST.
-
+Attualmente sviluppo applicazioni web full stack, lavorando sia sul frontend che sul backend con tecnologie come JavaScript, React, Node.js, PHP e Laravel, con interesse per la progettazione di API REST e la gestione dei dati.
 ---
 
 # 🛠️ Competenze tecniche
