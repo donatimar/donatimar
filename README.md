@@ -2,19 +2,19 @@
 
 💻 Junior Full Stack Web Developer | JavaScript • React • Node.js • PHP • Laravel
 
-## 🌐 Contatti
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Donati-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donatimar/)
-
-[![Email](https://img.shields.io/badge/Email-donatimar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donatimar@gmail.com)
-
----
-
 Sono un Junior Full Stack Web Developer.
 
 Dopo un percorso nel settore turistico, ho intrapreso una nuova strada nel mondo dello sviluppo web completando il corso Full Stack Web Developer presso Boolean.
 
 Attualmente sviluppo applicazioni web full stack, lavorando sia sul frontend che sul backend con tecnologie come JavaScript, React, Node.js, PHP e Laravel, con interesse per la progettazione di API REST e la gestione dei dati.
+
+---
+
+## 🌐 Contatti
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Donati-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donatimar/)
+
+[![Email](https://img.shields.io/badge/Email-donatimar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donatimar@gmail.com)
 
 ---
 
