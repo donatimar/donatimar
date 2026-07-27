@@ -53,14 +53,11 @@ Applicazione Full Stack sviluppata come progetto finale durante il corso Boolean
 
 Il progetto permette la consultazione e gestione di un catalogo videogiochi attraverso un'interfaccia moderna e responsive.
 
-**Tecnologie utilizzate:**
+### 🛠️ Tecnologie utilizzate
 
-- React
-- Vite
-- JavaScript
-- Node.js
-- Express
-- MySQL
+**Frontend:** React • Vite • JavaScript  
+**Backend:** Node.js • Express • PHP • Laravel  
+**Database:** MySQL
 
 🔗 Repository:  
 [GameHub](https://github.com/donatimar/final-exam-boolean-gamehub)
@@ -73,14 +70,11 @@ Applicazione Full Stack dedicata alla ricerca e consultazione di professionisti 
 
 Il progetto permette agli utenti di trovare medici in base a provincia e specializzazione, con gestione dei dati e sistema di recensioni.
 
-**Tecnologie utilizzate:**
+### 🛠️ Tecnologie utilizzate
 
-- React
-- Vite
-- JavaScript
-- Node.js
-- Express
-- MySQL
+**Frontend:** React • Vite • JavaScript  
+**Backend:** Node.js • Express  
+**Database:** MySQL
 
 🔗 Repository:  
 [BDoctors](https://github.com/donatimar/bdoctors)
