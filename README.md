@@ -1,6 +1,6 @@
 # Ciao, sono Marco Donati 👋
 
-💻 Junior Full Stack Web Developer | React • Node.js • Laravel
+💻 Junior Full Stack Web Developer | JavaScript • React • Node.js • PHP • Laravel
 
 ## 🌐 Contatti
 
