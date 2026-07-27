@@ -78,6 +78,6 @@ Il progetto include una struttura frontend/backend con gestione dei dati tramite
 
 ## 📫 Contatti
 
-💼 LinkedIn: [Marco Donati](INSERISCI_LINK)
+💼 LinkedIn: [Marco Donati](https://www.linkedin.com/in/donatimar/)
 
 📧 Email: donatimar@gmail.com
