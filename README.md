@@ -56,7 +56,7 @@ Il progetto permette la consultazione e gestione di un catalogo videogiochi attr
 ### 🛠️ Tecnologie utilizzate
 
 **Frontend:** React • Vite • JavaScript  
-**Backend:** Node.js • Express • PHP • Laravel  
+**Backend:** PHP • Laravel  
 **Database:** MySQL
 
 🔗 Repository:  
